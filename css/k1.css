@@ -5,4 +5,6 @@
 
 .img {
     background-color: aqua;
+    padding: 30px;
+    width: 100px;
 }
