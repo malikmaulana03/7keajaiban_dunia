@@ -1,0 +1,54 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Sans-serif;
+    color: #fff;
+}
+html {
+    background-color: black;
+}
+
+.header {
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    
+    color: rgb(233, 233, 233);
+  }
+.isi {
+padding-left: 50px;
+padding-top: 30px;
+} 
+.isi h2 {
+    font-size: 40px;
+    padding-left: 30px;
+} 
+.isi p {
+    font-size: 20px;
+    text-transform: inherit;
+}
+img {
+    height: 300px;
+    width: 600px;
+}
+
+.tombol {
+    padding-bottom: 40px;
+    padding-top: 40px;
+    color: black;
+    text-align: center;
+}
+.tombol a {
+    text-decoration: none;
+    padding: 10px 15px;
+
+}
+.tombol a:hover {
+    background-color: white;
+    color: black;
+    margin: 20px;
+    border-radius: 6px;
+}
+
