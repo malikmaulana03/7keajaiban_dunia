@@ -120,10 +120,6 @@ body {
 	color: var(--shades);
 }
 
-.footer {
-	height: 50vh;
-	background-color: var(--primary);
-}
 
 .header {
 	height: 3 0vh;
